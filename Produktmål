@@ -1,1 +1,39 @@
+Målet med vår Product Backlog är att ha produkten färdig att lanseras på bibliotek, i första hand Karlstad Bibliotek men också alla dess filialer.
+
+
+Med produkten ska man kunna:
+
+* Logga in som användare
+
+* Logga in som admin
+
+* Efter inloggning ha tillgång till "Min Sida" där man kan se historik, se aktuella böcker man lånar och när de senast måste returneras, redigera sina 
+  användaruppgifter, förlänga lånetid på redan lånade böcker, etc.
+
+* Söka efter böcker som finns i inventarie på valt bibliotek (Här kan man alltså välja att söka i hela regionens alla filialer)
+
+* Låna böcker, antingen som inloggad användare i appen, eller genom att logga in i någon av bibliotekets terminaler och skanna de böcker man vill låna
+
+* Om boken man vill låna inte finns tillgänglig ska man kunna ställa sig i kö för den boken, och få en notis när boken finns tillgänglig
+
+* som admin kunna redigera info om böcker
+
+* som admin kunna skriva noteringar om individuella böcker och dess skick (om det t.ex. har uppstått skador)
+
+* som admin kunna få listor på de populäraste böckerna för att kunna justera antal av varje bok i inventariet
+
+* som admin kunna blockera användare från att kunna låna böcker tills de har gjort rätt för sig med tidigare lån
+
+* som admin enkelt kunna uppdatera och hantera "Eventsidan" med nyttig information ang. kommande event
+
+
+Produkten skall också ha:
+
+* Ett enkelt och lättnavigerat användargränssnitt
+
+* Både svenska och engelska som valbart språk
+
+* algoritmer för böcker ej inlämnade i tid, försvunna böcker samt fakturakrav till användare
+
+* En kalender som visar events och happenings på biblioteket
 
