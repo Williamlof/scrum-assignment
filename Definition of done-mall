@@ -1,7 +1,9 @@
 * Har criteria för uppgiften uppnåtts?
 
-* Har vi satt en rimlig tidsestimering/poäng för uppgiften?
+* Har det gjorts en code-review?
 
-* Har korrekt utvecklare tilldelats uppgiften?
+* Har koden integrerats i main-branch?
 
-* 
+* Är koden testad?
+
+* Har eventuella buggar fixats efter test?
