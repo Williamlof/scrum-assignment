@@ -8,7 +8,7 @@ Med produkten ska man kunna:
 * Logga in som admin
 
 * Efter inloggning ha tillgång till "Min Sida" där man kan se historik, se aktuella böcker man lånar och när de senast måste returneras, redigera sina 
-  användaruppgifter, förlänga lånetid på redan lånade böcker, etc.
+  användaruppgifter, förlänga lånetid på redan lånade böcker
 
 * Söka efter böcker som finns i inventarie på valt bibliotek (Här kan man alltså välja att söka i hela regionens alla filialer)
 
@@ -25,6 +25,8 @@ Med produkten ska man kunna:
 * som admin kunna blockera användare från att kunna låna böcker tills de har gjort rätt för sig med tidigare lån
 
 * som admin enkelt kunna uppdatera och hantera "Eventsidan" med nyttig information ang. kommande event
+
+* som admin kunna markera böcker som försvunna, och få upp en lista på alla försvunna böcker
 
 
 Produkten skall också ha:
